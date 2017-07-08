@@ -5,7 +5,10 @@ Sample opencv for parking analysis
 
 # Vehicle Attributes
  * Make
- ..* Model
+Toyota
+Honda
+Chevrolet
+ * Model
  * Year
  * Paint
  * Convertible
@@ -28,8 +31,14 @@ Sample opencv for parking analysis
  * Spots
 
 # Design
- * Support
+ * Structural
+
  * Enclosure
+Ip Rating
+
  * Mount
+Material
+Weatherproofing
+
 
 
