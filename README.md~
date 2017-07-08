@@ -3,7 +3,7 @@ krap
 
 Sample opencv for parking analysis
 
- * Vehicle Attributes
+1. Vehicle Attributes
  * Make
  * Model
  * Year
@@ -14,8 +14,8 @@ Sample opencv for parking analysis
  * Width
  * Height
 
-#Outer Parameters
-*Weather
-*Time of Day/Year
-*Obstruction?
+# Outer Parameters
+* Weather
+* Time of Day/Year
+* Obstruction?
 

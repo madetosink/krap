@@ -3,13 +3,14 @@ krap
 
 Sample opencv for parking analysis
 
- * Vehicle Attributes
+# Vehicle Attributes
  * Make
  * Model
  * Year
  * Paint
  * Convertible
- * Vehicle Specifications
+
+# Vehicle Specifications
  * Length
  * Width
  * Height
