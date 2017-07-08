@@ -14,8 +14,8 @@ Sample opencv for parking analysis
  * Width
  * Height
 
-#Outer Parameters
-*Weather
-*Time of Day/Year
-*Obstruction?
+# Outer Parameters
+* Weather
+* Time of Day/Year
+* Obstruction?
 
