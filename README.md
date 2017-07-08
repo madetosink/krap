@@ -5,7 +5,7 @@ Sample opencv for parking analysis
 
 # Vehicle Attributes
  * Make
- * Model
+ ** Model
  * Year
  * Paint
  * Convertible
@@ -32,4 +32,4 @@ Sample opencv for parking analysis
  * Enclosure
  * Mount
 
-Mount[http://www.google.com]
+
