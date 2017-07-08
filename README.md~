@@ -17,7 +17,18 @@ Sample opencv for parking analysis
  * Type
 
 # Outer Parameters
-* Weather
-* Time of Day/Year
-* Obstruction?
+ * Weather
+ * Time of Day/Year
+ * Obstruction?
+
+# Lot Information
+ * City
+ * State
+ * Area
+ * Spots
+
+# Design
+ * Support
+ * Enclosure
+  * Mount
 
